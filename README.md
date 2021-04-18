@@ -13,7 +13,7 @@ To clone and work on the repository, you can run the command:
 ```
 https://github.com/jlbrewe/ProductivityTracker.git
 ```
-To install node modules, you will need to have Node.js installed and use this command in the main folder:
+To install node modules, you will need to have Node.js installed and use these commands in the main folder:
 ```
 npm install
 npm install react-to-json
@@ -22,19 +22,14 @@ npm install @material-ui/core --save
 npm install pynput
 npm install python-dateutil
 npm install react-json-to-table
-```
-Using Pip (python3 will use pip3), install the following modules:
-```
-pip install pynput
-pip install os
-pip install threading
-pip install datetime
-pip install sys
-pip install time
-pip install dateutil
-pip install json
-pip install subprocess
-pip install re
+npm install os
+npm install threading
+npm install datetime
+npm install sys
+npm install time
+npm install json
+npm install subprocess
+npm install re
 ```
 
 ## How to Run
