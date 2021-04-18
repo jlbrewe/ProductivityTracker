@@ -32,8 +32,9 @@ pip install re
 ```
 
 ## How to Run
-1. Open two terminal windows
-2. In one terminal window, navigate to /my-app/src and run the command:
+1. Navigate to the cloned repo folder and move the node_modules folder into the my-app folder.
+2. Open two terminal windows
+3. In one terminal window, navigate to /my-app/src and run the command:
 ```
 python3 autotimer.py
 ```
