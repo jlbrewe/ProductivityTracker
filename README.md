@@ -16,6 +16,8 @@ https://github.com/jlbrewe/ProductivityTracker.git
 to install node modules, you will need to have Node.js installed and use this command in the main folder:
 ```
 npm install
+npm install react-to-json
+npm install fontsource-roboto
 ```
 using Pip (python3 will use pip3) to install the following modules
 ```
