@@ -18,6 +18,10 @@ To install node modules, you will need to have Node.js installed and use this co
 npm install
 npm install react-to-json
 npm install fontsource-roboto
+npm install @material-ui/core --save
+npm install pynput
+npm install python-dateutil
+npm install react-json-to-table
 ```
 Using Pip (python3 will use pip3), install the following modules:
 ```
