@@ -1,0 +1,109 @@
+{
+    "activities": [
+        {
+            "Name": "Terminal",
+            "Keystrokes": 48,
+            "Clicks": 0,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:38:20",
+                    "End Time": "2021-04-18 12:39:01",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 40
+                }
+            ]
+        },
+        {
+            "Name": "localhost:3000",
+            "Keystrokes": 0,
+            "Clicks": 2,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:39:01",
+                    "End Time": "2021-04-18 12:39:18",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 17
+                }
+            ]
+        },
+        {
+            "Name": "stackoverflow.com",
+            "Keystrokes": 0,
+            "Clicks": 3,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:39:18",
+                    "End Time": "2021-04-18 12:39:22",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 4
+                }
+            ]
+        },
+        {
+            "Name": "www.markdownguide.org",
+            "Keystrokes": 0,
+            "Clicks": 4,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:39:22",
+                    "End Time": "2021-04-18 12:39:25",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 3
+                }
+            ]
+        },
+        {
+            "Name": "docs.npmjs.com",
+            "Keystrokes": 5,
+            "Clicks": 4,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:39:25",
+                    "End Time": "2021-04-18 12:39:31",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 6
+                }
+            ]
+        },
+        {
+            "Name": "localhost:3000",
+            "Keystrokes": 0,
+            "Clicks": 2,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:39:31",
+                    "End Time": "2021-04-18 12:39:38",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 6
+                }
+            ]
+        },
+        {
+            "Name": "github.com",
+            "Keystrokes": 0,
+            "Clicks": 0,
+            "Time": [
+                {
+                    "Start Time": "2021-04-18 12:39:38",
+                    "End Time": "2021-04-18 12:39:39",
+                    "Days": 0,
+                    "Hours": 0,
+                    "Minutes": 0,
+                    "Seconds": 1
+                }
+            ]
+        }
+    ]
+}
