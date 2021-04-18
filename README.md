@@ -36,7 +36,7 @@ npm install re
 * If not all of the modules are downloaded, follow the directions in your terminal window to retrieve missing modules using npm. The terminal window will give you specific errors on what modules to download until you can run the program.
 
 ## How to Run
-* Works best when using Google Chrome as web browser
+* Works best when using Google Chrome as web browser and on a Mac
 1. Navigate to the cloned repo folder and move the node_modules folder into the my-app folder.
 2. Open two terminal windows
 3. In one terminal window, navigate to /my-app/src and run the command:
