@@ -31,6 +31,7 @@ npm install json
 npm install subprocess
 npm install re
 ```
+* If not all of the modules are downloaded, follow the directions in your terminal window to retrieve missing modules using npm. The terminal window will give you specific errors on what modules to download until you can run the program.
 
 ## How to Run
 * Works best when using Google Chrome as web browser
