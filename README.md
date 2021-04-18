@@ -1,6 +1,8 @@
 # ProductivityTracker :computer: :ballot_box_with_check:
 ProductivityTracker is a product that tracks user actions and formats into a table that includes window name, number of keystrokes for the window, number of mouse clicks for the window, and the time spent on the window. There is also a countdown capabliity that alerts the user when the time is complete.
 
+ProductivityTrackerScreenshot![image](https://user-images.githubusercontent.com/70446087/115157661-724ac100-a058-11eb-94f4-fce8eb44bddf.png)
+
 ## Table of Contents
 * [Installation](#installation)
 * [How To Run](#how-to-run)
