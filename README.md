@@ -32,7 +32,8 @@ npm install subprocess
 npm install re
 ```
 
-## How to Run (works best when using Google Chrome as web browser)
+## How to Run
+* Works best when using Google Chrome as web browser
 1. Navigate to the cloned repo folder and move the node_modules folder into the my-app folder.
 2. Open two terminal windows
 3. In one terminal window, navigate to /my-app/src and run the command:
