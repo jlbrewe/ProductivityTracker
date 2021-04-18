@@ -13,7 +13,7 @@ ProductivityTracker is a product that tracks user actions and formats into a tab
 
 To clone and work on the repository, you can run the command:
 ```
-https://github.com/jlbrewe/ProductivityTracker.git
+git clone https://github.com/jlbrewe/ProductivityTracker.git
 ```
 To install node modules, you will need to have Node.js installed and use these commands in the main folder:
 ```
