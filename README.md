@@ -9,17 +9,17 @@ ProductivityTracker is a product that tracks user actions and formats into a tab
 
 ## Installation
 
-to clone and work on the repository, you can run the command:
+To clone and work on the repository, you can run the command:
 ```
 https://github.com/jlbrewe/ProductivityTracker.git
 ```
-to install node modules, you will need to have Node.js installed and use this command in the main folder:
+To install node modules, you will need to have Node.js installed and use this command in the main folder:
 ```
 npm install
 npm install react-to-json
 npm install fontsource-roboto
 ```
-using Pip (python3 will use pip3) to install the following modules
+Using Pip (python3 will use pip3), install the following modules:
 ```
 pip install pynput
 pip install os
