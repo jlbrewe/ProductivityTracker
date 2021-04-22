@@ -47,7 +47,7 @@ python3 autotimer.py
 ```
 npm start
 ```
-5. When the localhost window pops up, pop it out, making sure it is in its own seperate window (if desired, set the countdown and start).
+5. When the localhost window pops up, pop it out, making sure it is in its own separate window. If desired, set the countdown and start.
 
 
 ## Requirements
